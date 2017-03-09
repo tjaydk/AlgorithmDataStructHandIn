@@ -1,0 +1,9 @@
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Doubling.exe.config
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Doubling.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Doubling.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\obj\Debug\Doubling.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\obj\Debug\Doubling.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\obj\Debug\Doubling.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Assert.dll
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Assert.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\Doubling\Doubling\bin\Debug\Assert.xml

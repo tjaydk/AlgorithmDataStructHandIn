@@ -1,0 +1,6 @@
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\bin\Debug\DequeueSort.exe.config
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\obj\Debug\DequeueSort.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\bin\Debug\DequeueSort.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\bin\Debug\DequeueSort.pdb
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\obj\Debug\DequeueSort.exe
+C:\Users\Dennis\Desktop\Software Dev opgaver\Algorithm and Datastructures\HandIn\DequeueSort\DequeueSort\obj\Debug\DequeueSort.pdb
